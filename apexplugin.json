@@ -1,0 +1,31 @@
+{
+  "name" : "ApexAutoNumeric",
+  "version" : "1.0",
+  "description" : "ApexAutoNumeric is a plug-in that provides live as-you-type formatting for international numbers and currencies based on Autonumeric Library",
+  "keywords" : ["item", "numbers", "currencies", "format", "autonumeric"],
+  "homepage" : "https://github.com/sdembele/ApexAutoNumeric.git",
+  "bugs" : {
+    "url" : "https://github.com/sdembele/ApexAutoNumeric.git/issues",
+    "email" : "dsouleman@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Souleman DEMBELE",
+    "email" : "dsouleman@gmail"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sdembele/ApexAutoNumeric.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["1.0"],
+      "plugin" : {
+        "internalName" : "autoNumeric",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:2"
+      }
+    }
+  }
+}
