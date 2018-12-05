@@ -26,6 +26,7 @@
         "internalName" : "autoNumeric",
         "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:2"
+        "previewImage": "https://github.com/sdembele/ApexAutoNumeric/blob/master/ApexAutoNumeric.gif"
       }
     }
   }
