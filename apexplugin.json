@@ -11,7 +11,8 @@
   "license" : "MIT",
   "author" : {
     "name" : "Souleman DEMBELE",
-    "email" : "dsouleman@gmail"
+    "email" : "dsouleman@gmail.com",
+    "donationUrl" : "https://paypal.me/SoulemanDEMBELE"
   },
   "repository" : {
     "type" : "git",
